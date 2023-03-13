@@ -1655,11 +1655,11 @@
 												"$ref": "AAAAAAGGw5gidIuQvDU="
 											},
 											"font": "Arial;13;1",
-											"left": 948.5,
+											"left": 959,
 											"top": 555.5,
-											"width": 64,
+											"width": 114,
 											"height": 13,
-											"text": "Autenticar"
+											"text": "Autenticar usuário"
 										},
 										{
 											"_type": "LabelView",
@@ -1690,9 +1690,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 943.5,
+									"left": 954,
 									"top": 548.5,
-									"width": 74.2890625,
+									"width": 124.8544921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGGw5gidIuRUEo="
@@ -1792,7 +1792,7 @@
 							"containerChangeable": true,
 							"left": 928,
 							"top": 544,
-							"width": 105,
+							"width": 176,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGGw5gidIuQvDU="
@@ -4841,7 +4841,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "Autenticar"
+					"name": "Autenticar usuário"
 				},
 				{
 					"_type": "UMLUseCase",
